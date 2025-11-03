@@ -4,3 +4,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/1tsLin/HP-test-backend.git
+[submodule "submodules/frontend"]
+	path = submodules/frontend
+	url = https://github.com/1tsLin/HP-test-frontend.git
+[submodule "submodules/backend"]
+	path = submodules/backend
+	url = https://github.com/1tsLin/HP-test-backend.git
